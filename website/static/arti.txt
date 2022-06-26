@@ -1,0 +1,1 @@
+tempat menyimpan file css/js/assets dll yang bersifat statis
